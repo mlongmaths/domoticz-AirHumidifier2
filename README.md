@@ -1,5 +1,5 @@
 # domoticz-AirHumidifier2
-Domoticz plugin for Xiaomi Humidifier 1 and 2
+Domoticz plugin for Xiaomi Humidifier
 * based on https://github.com/develop-dvs/domoticz-AirHumidifier2
 
 * Add model deerma.humidifier.jsq
