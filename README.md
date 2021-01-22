@@ -1,11 +1,8 @@
 # domoticz-AirHumidifier2
 Domoticz plugin for Xiaomi Humidifier 1 and 2
-* based on https://github.com/mgrom/domoticz-AirHumidifier
+* based on https://github.com/develop-dvs/domoticz-AirHumidifier2
 
-* FIX! Work on windows and linux devices
-* Add Russian translation
-* Add Waterlevel sensor
-* Add select model list (zhimi.humidifier.v1 / zhimi.humidifier.ca1 / zhimi.humidifier.cb1)
+* Add model deerma.humidifier.jsq
 
 ## Installation
 ```
